@@ -3,12 +3,13 @@ Git repository with Data and Analysis for the publication *Influence of Contact 
 
 ## Requirements
 To execute all the scripts you need:
-- pyDCA
+- pyDCA [^1]
 - self written Helper library see [here](https://gitlab.jsc.fz-juelich.de/faber1/biohelpers)
 - for effective sequence number calculation `sequeff`, see [here](https://gitlab.jsc.fz-juelich.de/faber1/sequeff)
-- Testset from Pucci et al.[^1]
+- Testset from Pucci et al.[^2]
 
-[^1]: Pucci,F., Zerihun,M.B., Peter,E.K. and Schug,A. (2020) Evaluating DCA-based method performances for RNA contact prediction by a well-curated data set.
+[^1]: Zerihun,M.B., Pucci,F., Peter,E.K. and Schug,A. (2020) pydca v1.0: a comprehensive software for direct coupling analysis of RNA and protein sequences. Bioinformatics, 36, 2264–2265.
+[^2]: Pucci,F., Zerihun,M.B., Peter,E.K. and Schug,A. (2020) Evaluating DCA-based method performances for RNA contact prediction by a well-curated data set.
 
 
 ## Structure
